@@ -4,7 +4,7 @@
 75, UltraISO Premium 9.72 (August 29, 2019) 
   +) Improved writing disk image feature, can create bootable flash drive from more 
      ISO images including Ubuntu 19.04, Fedora 30 and Manjaro Linux (grub2) 
-  +) Supports creating bootable non-Removable USB disk (Samsung T3/T5)
+  +) Supports creating bootable non-Removableg USB disk (Samsung T3/T5)
   *) Can choose ISO images manually for RAW mode on writing disk image 
   *) Fixed a bug with handling some RockRidge volume
   *) Some minor improvements and bug fixes 
